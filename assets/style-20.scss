@@ -1,0 +1,433 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Montserrat');
+@charset "utf-8";
+
+$brand-color: #0087FF;
+$sep-color:   #55BDCA;
+$bg-color:    white;
+
+
+// --- base colors & fonts -------------------------------------------------
+
+html {
+    overflow-y: scroll;
+    overflow:-moz-scrollbars-vertical;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+
+    text-rendering: optimizeLegibility;
+    line-height: 1.5;	
+
+    background: $bg-color;
+}
+
+main {
+    aside, article {
+        background: $bg-color;
+        opacity: 0.9;
+    }
+
+    article {
+        line-height: 1.8;
+    }
+}
+
+footer {
+    background-color: $bg-color;
+
+    article {
+        border-top: 5px solid $sep-color;
+    }
+}
+
+main aside, main article {
+    h1, h2 {
+        color: $brand-color;
+    }
+}
+
+main article {
+    h1 {
+        font-size: 130%;
+    }
+
+    h2 {
+        font-size: 120%;
+    }
+
+    h1 + h2 {
+        padding: 0;
+        margin: 0;
+    }
+}
+
+a, a:visited {
+    color: $brand-color;
+}
+
+nav { 
+    font-size: 12px;
+
+    ul { 
+        padding: 0;
+
+        li 
+        {
+            list-style: outside square;
+            margin-left: 2em;
+        } 
+
+        a, a:visited {
+            color: black;
+            text-decoration: none;
+        }
+    }
+}
+
+#archive ul {
+
+    li {
+        float: left;
+        margin-left: 2em;
+    }
+
+    li:nth-child(odd) {
+        clear: left;
+    }
+
+    li:nth-child(even) {
+        margin-left: 4em;
+    }
+
+    padding-bottom: 4em;
+}
+
+main hr {
+    border: none;
+    border-top: 1px dotted gray;
+}
+
+header, footer {
+    color: black;
+    
+    h1 { 
+        font-size: 350%; 
+    }
+
+    h2 { 
+        font-size: 110%;
+    }
+}
+
+span {
+    display: inline-block;
+}
+
+main aside {
+    nav ~ * {
+        display: none;
+        font-size: 90%;
+    }
+
+    hr {
+        border: none;
+        border-top: 1px dotted #eee;
+    }
+}
+
+main article img {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+footer {
+    color: darkgray;
+    font-size: 80%;
+
+    aside {
+        text-align: center;
+    }
+
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+    font-size: 100%;
+    font-weight: 800;
+}
+
+p + h1 {
+    margin-top: 1em;
+}
+
+h2 {
+    font-size: 120%;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 100%;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+dl {
+    dt {
+        margin-top: .5em;
+        font-weight: 600;
+    }
+
+    dd {
+        margin-left: 0;
+    }
+}
+
+#ieee-logo {
+    width: 80px;
+    margin-bottom: 1em;
+}
+
+#ldav-logo {
+    width: 170px;
+    // height: 120px;
+}
+
+#teasers {
+    width: 95%;
+    display: block;
+    margin: 0 auto;
+}
+
+.left, .right {
+    display: inline-block;
+    width: 49%;
+
+    vertical-align: top;
+}
+
+// --- mobile --------------------------------------------------------------
+
+header { 
+    
+    aside img {
+        width: 150px;
+    }
+    
+    aside, article {
+        text-align: center;
+    }
+
+    article img {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+// all displays
+
+header {
+    padding-top: 1em;
+    padding-bottom: 2em;
+
+    background: url(header-sm.png);
+    background-position: center bottom;
+    background-size: 460px auto;
+    background-repeat: no-repeat;
+}
+
+aside, article {
+    padding-right: 2em;
+    padding-left: 2em;
+}
+
+main { 
+    aside, article {
+        margin-bottom: 1em;
+
+        padding-bottom: .5em;
+        padding-top: .5em;
+
+        border-top: 5px solid $sep-color;
+    }
+}
+
+footer {
+    text-align: left;
+    clear: both;
+
+    aside, article {
+        border-top: 5px solid $sep-color;
+    }
+}
+
+// --- large ---------------------------------------------------------------
+
+table {
+    border-collapse: collapse;
+}
+
+table.program {
+    li {
+        padding-bottom: .2em;
+    }
+}
+
+td {
+    display: block;
+    margin-bottom: 0;
+}
+
+tr td:first-child {
+    padding-top: 1em;
+    font-weight: bold;
+}
+
+td + td {
+    padding-bottom: 1em;
+} 
+
+tr + tr {
+    border-top: 1px dotted lightgray;    
+}
+
+td h4 {
+    margin: 0;
+    color: $brand-color;
+}
+
+@media screen and (min-width: 720px) {
+    table {
+
+        border-collapse: collapse;
+    
+        tr td:first-child {
+            text-align: right;
+    
+            vertical-align: top;
+            padding-right: 2em; 
+            font-size: 90%;
+            width: 11em;
+        }
+    
+        tr td {
+            display: table-cell;
+
+            padding-top: 1em;
+            padding-bottom: 1em;
+        }
+    
+        h4 {
+            margin: 0;
+            padding: 0;
+            color: $brand-color;
+        }
+    }
+
+    body {
+        display: table;
+        margin: 0 auto;
+        padding: 1em;
+
+        max-width: 960px;
+    }
+
+    header, footer, main {
+        display: table-row;
+        
+        article, aside {
+            display: table-cell;
+
+            padding-bottom: 1em;
+            padding-top: 1em;
+        }
+    }
+
+    header {
+        background: none;
+
+        article {
+            background-image: url(header-lg.jpg);
+            background-repeat: no-repeat;
+            background-size: auto 160px;
+            background-position: right 1em bottom;
+        }
+    }
+
+    main {
+        aside, article {
+            border-top:    5px solid $sep-color;
+            // border-bottom: 5px solid $sep-color;
+        }
+    }
+
+    aside {
+        min-width: 12em;
+        padding-right: 2em;
+        padding-left: 2em;
+
+        border-right: 1px dotted lightgray;
+    }
+
+    article {
+        width: 100%;
+        padding-left: 2em;
+    }
+
+    header, footer {
+        
+        aside, article {
+            vertical-align: middle;
+        }
+
+        aside {
+            border-right: 1px dotted lightgray;
+        }
+
+        article {
+            text-align: left;
+        }
+
+        #ieee-logo {
+            // margin-top: 1em;
+            // margin-bottom: none;
+            // float: right;
+        }
+
+        #ldav-logo {
+            // margin-bottom: -10px;
+        }
+    }
+
+    footer {
+        text-align: left;
+
+        aside {
+            display: table-cell;
+        }
+    }
+
+    main aside nav ~ * {
+        display: block;
+    }
+}
+
+// @media screen and (min-width: 1000px) {
+//     body {
+//         max-width: 960px;
+//     }
+
+//     header article {
+//         background-size: auto 215px;
+//     }
+// }

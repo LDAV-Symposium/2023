@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if site.title %}{{ site.title | escape }}{% endif %}{% if page.title %} – {{ page.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <link rel="stylesheet" href="assets/style-20.css">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+</head>
+<body>
+
+  <header>
+    <aside>
+      <img id="ldav-logo" src="assets/logo-ldav.jpg" />
+    </aside>
+    <article>
+      <h2>
+        <b><span>The 10th IEEE Symposium on</span>
+        <span>Large Data Analysis and Visualization</span></b><br />
+        <span>in conjunction with IEEE VIS 2020,</span>
+        <span> Salt Lake City, Utah, USA, October 25, 2020</span>
+      </h2>
+      <img id="ieee-logo" src="assets/logo-ieee.png" />
+    </article>
+  </header>
+
+  <main>
+    <aside>
+      <nav>
+        <h1>Menu</h1>
+        <ul>
+          {% for link in site.navigation %} 
+          {% assign current = nil %} 
+          {% if page.url contains link.url %} {% assign current = 'current'%} {% endif %}
+          <li class="{{ current }}">
+            <a href="{{ link.url }}">{{ link.title }}</a>
+          </li>
+          {% endfor %}
+          <li>
+            <a href="mailto:ldav@ieeevis.org">Contact</a>
+          </li>
+        </ul>
+      </nav>
+      <hr />
+      {% capture my_include %}{% include dates.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+      <hr />
+      <nav id="archive">
+        <h1>LDAV Archive</h1>
+        <ul>
+          <li><a href="/2019/" target="_blank">2019</a></li>
+          <li><a href="/2018/" target="_blank">2018</a></li>
+          <li><a href="/2017/" target="_blank">2017</a></li>
+          <li><a href="/2016/" target="_blank">2016</a></li>
+          <li><a href="/2015/" target="_blank">2015</a></li>
+          <li><a href="/2014/" target="_blank">2014</a></li>
+          <li><a href="/2013/" target="_blank">2013</a></li>
+          <li><a href="/2012/" target="_blank">2012</a></li>
+          <li><a href="/2011/" target="_blank">2011</a></li>
+        </ul>
+      </nav>
+    </aside>
+    <article>
+      {{ content }}
+    </article>
+  </main>
+
+  <footer>
+    <aside>
+      Last update: {{ page.last_modified_at | date: '%b %e, %Y' }}
+    </aside>
+    <article>
+      <p>
+        © Large Data Analysis and Visualization (LDAV at IEEE VIS 2020)
+      </p>
+    </article>
+  </footer>
+
+</body>
+
+</html>

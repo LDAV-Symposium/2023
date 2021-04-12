@@ -1,0 +1,54 @@
+
+title: LDAV 2020
+email: ldav@ieeevis.org
+baseurl: ""
+url: "http://ldav.org"
+
+# --- site config ---
+
+description: > 
+  The 10th IEEE Symposium on Large Data Analysis and Visualization,
+  in conjunction with IEEE VIS 2020, Salt Lake City, Utah, USA, October 25, 2020
+
+navigation:
+ - title: Home
+   url: index.html
+ - title: Program
+   url: program.html
+ - title: Presentation and Final Submission Information
+   url: presenters.html 
+ - title: Call for Papers
+   url: call-for-papers.html
+ - title: Call for Posters
+   url: call-for-posters.html
+#  - title: Supporters
+#    url: supporters.html
+# - title: Important Dates
+#   url: important-dates.html
+ - title: Organization
+   url: organization.html
+
+# --- end site config ---
+
+# build settings
+markdown: kramdown
+
+plugins: 
+  - jekyll-last-modified-at
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - misc
+  - archive/previous
+  - s3_website.yml
+  - .travis.yml
+  - vendor
+
+collections: 
+  pages:
+    output: true
+    permalink: /:path:output_ext
+
