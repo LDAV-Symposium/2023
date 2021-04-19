@@ -1,5 +1,5 @@
 
-title: LDAV 2020
+title: LDAV 2021
 email: ldav@ieeevis.org
 baseurl: ""
 url: "http://ldav.org"
@@ -7,8 +7,7 @@ url: "http://ldav.org"
 # --- site config ---
 
 description: > 
-  The 10th IEEE Symposium on Large Data Analysis and Visualization,
-  in conjunction with IEEE VIS 2020, Salt Lake City, Utah, USA, October 25, 2020
+  The 11th IEEE Symposium on Large Data Analysis and Visualization, in conjunction with IEEE VIS 2021, New Orleans, Louisiana, USA, October 24, 2021
 
 navigation:
  - title: Home
