@@ -1,12 +1,12 @@
 source "https://rubygems.org"
 #ruby "~> 2.3.1"
 
-gem "jekyll", "3.6.3"
+gem "jekyll", "4.2.0"
 
 # jekyll plugins
 group :jekyll_plugins do
-  gem "jekyll-last-modified-at", "~> 1.0.1"
-  gem 'jekyll-sitemap', '~> 1.2.0'
+  #gem "jekyll-last-modified-at"
+  gem "jekyll-sitemap"
 end
 
 # deploying to S3
