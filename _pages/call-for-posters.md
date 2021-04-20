@@ -7,11 +7,11 @@ title: Call for Posters
 
 Contact: <posters@ldav.org>
 
-We invite you to submit unpublished work to the IEEE LDAV 2019 Poster Program.
+We invite you to submit unpublished work to the IEEE LDAV 2021 Poster Program.
 It is a venue designed to highlight ongoing research and late breaking topics that have produced promising preliminary results. 
 The poster program will be a great opportunity for the authors to interact with the symposium attendees and solicit feedback.
 
-In addition to the topics listed under [Call for Papers](/2020/call-for-papers.html), we also welcome submissions that
+In addition to the topics listed under [Call for Papers](/2021/call-for-papers.html), we also welcome submissions that
 * showcase successful stories of applying visualization to large-scale data intensive applications, and 
 * highlights of recent visualization work presented or published in another venue. 
 
@@ -31,8 +31,8 @@ The summary should be formatted according to guidelines available on the [IEEE V
 **Submission Site:**
 Go to the [submission site](https://new.precisionconference.com/~vgtc), log in, go to 'Submissions', and select 
 * Society: 'VGTC'
-* Conference: 'LDAV 2020'
-* Track: 'LDAV 2020 Posters'.
+* Conference: 'LDAV 2021'
+* Track: 'LDAV 2021 Posters'.
 
 ## Layout and Dimensions of the Posters
 
@@ -54,11 +54,11 @@ Plagiarism in any form is unacceptable and will lead to a removal of the submiss
 ## Important Dates
 
 Two-page Poster Paper Submission
-: August 24, 2020, 11:59 PM (AOE)
+: August 15, 2021, 11:59 PM (AOE)
 
 Author Notification
-: August 28, 2020
+: August 19, 2021
 
 Camera-Ready Deadline
-: September 4, 2020
+: August 26, 2021
 

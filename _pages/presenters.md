@@ -11,7 +11,7 @@ All papers (full and short) get 20 minutes for the talk and then 10 minutes
 for questions and switching presenters. We have a full schedule this year – 
 please stay on time.
 
-LDAV 2020 is held in a virtual format using video presentations. 
+LDAV 2021 is held in a virtual format using video presentations. 
 Please read thoroughly technical information for recording your talk 
 from the [IEEE VIS speaker information]. (Note that LDAV has a different 
 slide template and talk length than the main VIS conference.)
@@ -30,7 +30,7 @@ the preview or fast-forward video.
 This year, there have been significant changes in the final paper submission 
 process for IEEE VIS and associated events, including LDAV. 
 
-All final submission items need to be submitted to LDAV 2020 Author Submission Site 
+All final submission items need to be submitted to LDAV 2021 Author Submission Site 
 on IEEE CPS (login required). The items include:
 * Final camera-ready PDF
 * Electronic Copyright
@@ -49,13 +49,13 @@ It is imperative authors have their assigned Paper ID to ensure all submissions 
 Once sign up (if you do not have an account) and login, the site provides detailed guidance for all items, including the specifications 
 on paper, presentation video, preview image, subtitle file, and supplemental file(s), 
 the instruction on video and image submission, and paper formatting. Note that 
-* Paper, copyright, and optional supplemental file(s) submissions are due <br />**September 7, 2020 @ 11:59 pm AoE**.
-* Presentation video, preview image with caption, and subtitle file submissions are due <br />**September 14, 2020 @ 11:59 pm AoE**.
+* Paper, copyright, and optional supplemental file(s) submissions are due <br />**August 15, 2021 @ 11:59 pm AoE**.
+* Presentation video, preview image with caption, and subtitle file submissions are due <br />**August 15, 2021 @ 11:59 pm AoE**.
 
 LDAV assigned CPS Editor, Lisa O'Conner (loconner@computer.org), will assist authors as needed. 
 Please email Lisa should you have questions or encounter problems in your CPS submission. 
 
 
-[LDAV slide template]: assets/LDAV_2020_Template.pptx
-[IEEE VIS speaker information]: http://ieeevis.org/year/2020/info/presenter-information/talk-recording-guide
+<!-- [LDAV slide template]: assets/LDAV_2020_Template.pptx -->
+[IEEE VIS speaker information]: http://ieeevis.org/year/2021/info/presenter-information/talk-recording-guide
 

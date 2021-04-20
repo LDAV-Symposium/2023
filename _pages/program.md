@@ -4,8 +4,9 @@ title: Program
 ---
 
 # Program
+TBA.
 
-**Sunday, October 25, 2020**  
+<!--**Sunday, October 25, 2020**  
 (Mountain Time, USA) 
 
 <table class="program">
@@ -109,28 +110,34 @@ title: Program
       Closing Remarks
     </td>
   </tr>
-</table>
+</table>-->
 
 ---
 
 # Keynote
 
-**Large-Scale Visual Analytics: A Reflection on Methodology and Practice**<br/>
+TBA.
+
+<!--**Large-Scale Visual Analytics: A Reflection on Methodology and Practice**<br/>
 _Professor Huamin Qu, Hong Kong University of Science and Technology, Hong Kong_
 
-In the past decade, the VisLab at the Hong Kong University of Science and Technology has closely worked with industry to develop large-scale visual analytics systems for different application domains, especially E-Learning, Urban Computing, Smart Manufacturing, and FinTech. These systems have been deployed to more than 10 companies and about 20 papers related to these systems have been published in IEEE VAST conferences. During this process, we have accumulated experience and learned lessons. In this talk, I will introduce some representative works and share my reflection on the methodology and practice of developing large-scale visual analytics systems. I will especially talk about the limitations of the current approaches including the ad-hoc nature of the methodology and the overly complicated visualization designs and systems, and provide my thoughts on how these can be improved with the help of machine learning and also technology from software engineering. 
+In the past decade, the VisLab at the Hong Kong University of Science and Technology has closely worked with industry to develop large-scale visual analytics systems for different application domains, especially E-Learning, Urban Computing, Smart Manufacturing, and FinTech. These systems have been deployed to more than 10 companies and about 20 papers related to these systems have been published in IEEE VAST conferences. During this process, we have accumulated experience and learned lessons. In this talk, I will introduce some representative works and share my reflection on the methodology and practice of developing large-scale visual analytics systems. I will especially talk about the limitations of the current approaches including the ad-hoc nature of the methodology and the overly complicated visualization designs and systems, and provide my thoughts on how these can be improved with the help of machine learning and also technology from software engineering. -->
 
 #### Speaker
 
-<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/Huamin_Qu.jpg" />
-Prof. Huamin Qu is the Director of Interdisciplinary Programs Office (IPO) and a professor in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). His main research interests are in visualization and human-computer interaction, with focuses on urban informatics, social network analysis, E-learning, text visualization, and explainable artificial intelligence (XAI). He is currently an associate editor of Computer Graphics Forum (CGF), and was an associate editor of IEEE Transactions on Visualization and Computer Graphics (TVCG), a paper co-chair for IEEE VIS’14 (SciVis), VIS’15 (SciVis) and VIS’18 (VAST). He has served on the steering committees of IEEE PacificVis, IEEE VAST, and IEEE VIS. Prof. QU’s research has been recognized by many awards including 11 Best paper/Honorable Mention awards, IBM Faculty Award, Distinguished Collaborator Award from Huawei Noah's Ark Lab, and AI 2000 Most Influential Scholar Award (for Contributions to the field of Visualization between 2009 and 2019). He has graduated 28 PhD students.
+TBA.
+
+<!--<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/Huamin_Qu.jpg" />
+Prof. Huamin Qu is the Director of Interdisciplinary Programs Office (IPO) and a professor in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). His main research interests are in visualization and human-computer interaction, with focuses on urban informatics, social network analysis, E-learning, text visualization, and explainable artificial intelligence (XAI). He is currently an associate editor of Computer Graphics Forum (CGF), and was an associate editor of IEEE Transactions on Visualization and Computer Graphics (TVCG), a paper co-chair for IEEE VIS’14 (SciVis), VIS’15 (SciVis) and VIS’18 (VAST). He has served on the steering committees of IEEE PacificVis, IEEE VAST, and IEEE VIS. Prof. QU’s research has been recognized by many awards including 11 Best paper/Honorable Mention awards, IBM Faculty Award, Distinguished Collaborator Award from Huawei Noah's Ark Lab, and AI 2000 Most Influential Scholar Award (for Contributions to the field of Visualization between 2009 and 2019). He has graduated 28 PhD students.-->
 
 ---
 
 # Posters
+TBA.
 
-The LDAV posters session will take place virtually with IEEE VIS Poster Session via iPosters.
+<!--The LDAV posters session will take place virtually with IEEE VIS Poster Session via iPosters.
 
   * <a href="https://doi.org/10.1109/LDAV51489.2020.00013" target="new">A Distributed Algorithm for Force Directed Edge Bundling</a><br />
    _Yves Tuyishime, Yu Pan, Hongfeng Yu_
   
+ -->

@@ -10,30 +10,34 @@ title: Organization
 <div class="left">
 ## Symposium Chairs
 
+Kristi Potter
+: National Renewable Energy Laboratory
+
 Julien Tierny
 : CNRS - Sorbonne Universit&eacute;
 
-Hongfeng Yu
-: University of Nebraska-Lincoln
+Chaoli Wang
+: University of Notre Dame
 
 ## Paper Chairs
+
+Johanna Beyer
+: Harvard University
 
 Peer-Timo Bremer
 : Lawrence Livermore National Laboratory
 
-Kristi Potter
-: National Renewable Energy Laboratory
-
-Chaoli Wang
-: University of Notre Dame
+Paul Navratil
+: Texas Advanced Computing Center
 
 ## Poster Chairs
 
 Steffen Frey
 : University of Stuttgart 
 
-Khairi Reda
-: Indiana University - Purdue University Indianapolis
+Silvio Rizzi
+: Argonne National Laboratory
+
 </div>
 <div class="right">
 ## Steering Committee
@@ -49,12 +53,18 @@ Christoph Garth
 
 Kenneth Moreland
 : Sandia National Laboratories
+
+
+Hongfeng Yu
+: University of Nebraska-Lincoln
 </div>
 
 <div class="left">
 ## Program Committee
 
-Jeff Baumes
+TBA
+
+<!--Jeff Baumes
 : Kitware, Inc.
 
 Wes Bethel
@@ -106,13 +116,13 @@ Ming Jiang
 : Lawrence Livermore National Laboratory
 
 James Klosowski
-: AT&T Labs Research
+: AT&T Labs Research-->
 </div>
 
 <div class="right">
 ## &nbsp;
   
-Aaron	Knoll
+<!--Aaron	Knoll
 : Intel Cooperation
 
 Joshua Levine
@@ -161,8 +171,9 @@ Xavier Tricoche
 : Purdue University
 
 Yang Wang
-: Uber Technologies, Inc.
+: Uber Technologies, Inc.-->
 
 </div>
 
 
+<!-- </div> -->
