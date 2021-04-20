@@ -3,24 +3,23 @@
 
 
 Paper Abstracts
-: July 7, 2020
+: June 17, 2021
 
 Paper Submissions
-: July 12, 2020
+: June 24, 2021
 
 Author Notifications
-: August 21, 2020
+: August 7, 2021
 
 Camera-Ready Deadline
-: ~~August 28, 2020~~
-: September 7, 2020
+: August 15, 2021
 
 Presentation Videos
-: September 14, 2020
+: August 22, 2021
 
 Poster Submissions
-: August 24, 2020
+: August 15, 2021
 
 ## Symposium
 
-**October 25, 2020**
+**October 25, 2021**
