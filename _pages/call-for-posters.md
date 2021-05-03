@@ -5,7 +5,7 @@ title: Call for Posters
 
 # Call for Posters
 
-Contact: <posters@ldav.org>
+Contact: <ldav21b@precisionconference.com>
 
 We invite you to submit unpublished work to the IEEE LDAV 2021 Poster Program.
 It is a venue designed to highlight ongoing research and late breaking topics that have produced promising preliminary results. 

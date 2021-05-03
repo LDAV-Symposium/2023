@@ -5,7 +5,7 @@ title: Call for Papers
 
 # Call for Papers
 
-Contact: <papers@ldav.org>
+Contact: <ldav21a@precisionconference.com>
 
 Data scales are increasing throughout scientific, business, and research 
 contexts. Large-scale scientific simulations, observation technologies, 
