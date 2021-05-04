@@ -37,7 +37,7 @@ manipulation, and visualization of large-scale data. We are particularly
 interested in innovative approaches that combine information 
 visualization, visual analytics, and scientific visualization. 
 
-We are interested in methods for data at scale, including: 
+LDAV welcomes papers on techniques and algorithms, systems, application and design studies, empirical studies, state of the practice, and position statements.   Representative topics include:
 * Distributed, parallel, and multi-threaded computation
 * Streaming methods
 * Innovative software solutions 
@@ -48,41 +48,18 @@ We are interested in methods for data at scale, including:
 * Scalable visualization and exploration methods
 * Ensemble data visualization and analysis
 * In-situ data analysis
-
-We are also interested in understanding state of the art techniques, 
-including: 
 * Best practices for large data visualization
 * End-to-end system solutions in a large data context
 * Industry solutions for big data analysis and visualization
-
-We are interested in research on the context of visualization, 
-including: 
-* Collaboration or/and co-design of large data analysis with domain 
-  experts 
-* Topics in cognitive issues specific to manipulating and understanding 
-  large data 
+* Collaboration or/and co-design of large data analysis with domain experts
+* Topics in cognitive issues specific to manipulating and understanding large data
 * Application case studies
-* New challenges in visualizing experimental, observational, or 
-  simulation data 
+* New challenges in visualizing experimental, observational, or simulation data 
 
-### Full Papers
-Full papers should have a maximum length of 9 pages with up to two (2) 
-additional pages allowed for only references (maximum total of 11 
-pages). Full papers may make contributions in techniques, systems, 
-applications, evaluations, or theory. The contributions of full papers 
-are reviewed based on their novelty, contribution, replicability, and 
-evaluation. 
+As part of the review criteria, reviewers will be asked to assess whether the contribution is in scope for LDAV, i.e., whether it considers "large data". Therefore, we strongly encourage you to clearly identify the "large data" aspect you address.
 
-#### New this year!
-The Best Paper for IEEE LDAV will be published directly in IEEE Transactions on Visualization and Computer Graphics (TVCG).  Further, other excellent papers will be encouraged to submit journal versions of their work to TVCG (at least 30% new scientific/technical content), with reviewer continuity.
+For LDAV, we define large data to be data of size and complexity that require innovation to be processed and understood.  With respect to size, the techniques for handling this data require either using atypical hardware or specialized techniques that run on typical hardware.  Examples of atypical hardware include supercomputers or novel hardware (such as a just-released GPU, an understudied device like a FPGA, or a high-resolution display), with corresponding techniques including, for example, efficient parallelization.  There are many examples of specialized techniques that enable typical hardware to operate effectively on large data; canonical examples including multi-resolution and streaming techniques.  With respect to complexity, techniques in scope for LDAV should be illuminating data sets that are considerably larger than typical for a given task, for example, but not restricted to: rendering, layout, analysis, etc.  Finally, data may be large relative to the resources available, and such examples are welcomed at LDAV.  For example, novel techniques may be needed to visualize or analyze data on a Raspberry Pi or sensor network.
 
-### Short Papers
-Short papers should have a length of 4-5 pages in total. Short papers 
-are a venue to report smaller contributions than full papers. Position 
-papers and showcases of interesting application of visualization are 
-good topics for short papers. Technique, system, application, 
-evaluation, or theory papers that have a smaller contribution than a 
-full paper can also be submitted as a short paper.
 
 ## Submission
 
@@ -95,6 +72,23 @@ Submission site note: Go to the
 [submission site](https://new.precisionconference.com/vgtc)
 (<https://new.precisionconference.com/vgtc>), log in, go to 'Submissions', 
 and select Society 'VGTC', Conference 'LDAV 2021', and Track 'LDAV 2021 Papers'.
+
+### Full Papers
+Full papers should have a maximum length of 9 pages with up to two (2) 
+additional pages allowed for only references (maximum total of 11 
+pages). Full papers may make contributions in techniques, systems, 
+applications, evaluations, or theory. The contributions of full papers 
+are reviewed based on their novelty, contribution, replicability, and 
+evaluation. 
+
+### Short Papers
+Short papers should have a length of 4-5 pages in total. Short papers 
+are a venue to report smaller contributions than full papers. Position 
+papers and showcases of interesting application of visualization are 
+good topics for short papers. Technique, system, application, 
+evaluation, or theory papers that have a smaller contribution than a 
+full paper can also be submitted as a short paper.
+
 
 ## Proceedings
 
@@ -115,13 +109,13 @@ Visualization and Computer Graphics (TVCG). Further, in accordance with TVCG's <
 Please note: all deadlines are firm and no extensions will be granted.
 
 Abstract Deadline (firm) 
-: June 17, 2021, 11:59 PM (AOE)
+: June 21, 2021, 11:59 PM (AOE)
 
 Paper Submission (firm)
-: June 24, 2021, 11:59 PM (AOE)
+: June 25, 2021, 11:59 PM (AOE)
 
 Author Notification
-: August 7, 2021
+: July 30, 2021
 
 Camera-Ready Deadline (firm)
 : August 15, 2021
