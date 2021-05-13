@@ -37,7 +37,8 @@ manipulation, and visualization of large-scale data. We are particularly
 interested in innovative approaches that combine information 
 visualization, visual analytics, and scientific visualization. 
 
-LDAV welcomes papers on techniques and algorithms, systems, application and design studies, empirical studies, state of the practice, and position statements.   Representative topics include:
+LDAV welcomes papers on techniques and algorithms, systems, application and design studies, empirical studies, state of the practice, and position statements. More descriptions on these paper types can be found <a href="paper-types.html">here</a>.
+Representative topics include:
 * Distributed, parallel, and multi-threaded computation
 * Streaming methods
 * Innovative software solutions 
