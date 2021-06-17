@@ -106,7 +106,7 @@ Kelly Gaither
 Berk Geveci	
 : Kitware, Inc.
 
-Tobias G&uuml;ther
+Tobias G&uuml;nther
 : ETH Zurich
 
 Hanqi Guo
