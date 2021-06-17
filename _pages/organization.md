@@ -107,7 +107,7 @@ Berk Geveci
 : Kitware, Inc.
 
 Tobias G&uuml;nther
-: ETH Zurich
+: Friedrich-Alexander-University Erlangen-N&uuml;rnberg
 
 Hanqi Guo
 : Argonne National Laboratory
