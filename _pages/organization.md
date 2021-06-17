@@ -62,13 +62,12 @@ Hongfeng Yu
 <div class="left">
 ## Program Committee
 
-TBA
 
 <!--Jeff Baumes
-: Kitware, Inc.
+: Kitware, Inc.-->
 
-Wes Bethel
-: Lawrence Berkeley National Laboratory
+<!--Wes Bethel
+: Lawrence Berkeley National Laboratory-->
 
 Chris Bryan
 : Arizona State University
@@ -79,20 +78,30 @@ Hamish Carr
 Silvia Castro
 : Universidad Nacional del Sur
 
-Wei Chen
-: Zhejiang University
+<!--Wei Chen
+: Zhejiang University-->
 
 Amit Chourasia
 : San Diego Supercomputer Center
 
-Patricia Crossno	
-: Sandia National Laboratories
+<!--Patricia Crossno	
+: Sandia National Laboratories-->
 
-Harish Doraiswamy
-: New York University
+<!--Harish Doraiswamy
+: New York University-->
+
+Soumya Dutta
+: Los Alamos National Laboratories
+
+Steffen Frey
+: University of Groningen
+
 
 Issei	Fujishiro	
 : Keio University
+
+Kelly Gaither
+: Texas Advanced Computing Center
 
 Berk Geveci	
 : Kitware, Inc.
@@ -100,11 +109,17 @@ Berk Geveci
 Tobias G&uuml;ther
 : ETH Zurich
 
+Hanqi Guo
+: Argonne National Laboratory
+
 Markus Hadwiger	
 : KAUST
 
 Ingrid Hotz
 : Link&ouml;ing University
+
+Jian Huang
+: University of Tennessee
 
 Katherine Isaacs
 : University of Arizona
@@ -112,17 +127,23 @@ Katherine Isaacs
 Yun Jang	
 : Sejong University
 
-Ming Jiang	
-: Lawrence Livermore National Laboratory
+Won-Ki	Jeong
+: Korea University
 
-James Klosowski
+
+
+
+<!--James Klosowski
 : AT&T Labs Research-->
 </div>
 
 <div class="right">
 ## &nbsp;
   
-<!--Aaron	Knoll
+Ming Jiang	
+: Lawrence Livermore National Laboratory
+  
+Aaron	Knoll
 : Intel Cooperation
 
 Joshua Levine
@@ -135,16 +156,19 @@ Shusen Liu
 : Lawrence Livermore National Laboratory
 
 Zhicheng Liu
-: Adobe Research
+: University of Maryland
 
-Vijay Natarajan
-: Indian Institute of Science
+Kwan-Liu Ma
+: University of California at Davis
+
+<!--Vijay Natarajan
+: Indian Institute of Science-->
 
 Ron Oldfield
 : Sandia National Laboratories
 
-Patrick  O'Leary
-: Kitware, Inc.
+<!--Patrick  O'Leary
+: Kitware, Inc.-->
 
 Tom	Peterka
 : Argonne National Laboratory
@@ -161,16 +185,16 @@ Filip Sadlo
 Allen Sanderson	
 : University of Utah
 
-Han-Wei	Shen
+Han-Wei Shen
 : The Ohio State University
 
-David	Thompson
+David Thompson
 : Kitware, Inc.
 
 Xavier Tricoche
 : Purdue University
 
-Yang Wang
+<!--Yang Wang
 : Uber Technologies, Inc.-->
 
 </div>
