@@ -50,7 +50,7 @@ Once sign up (if you do not have an account) and login, the site provides detail
 on paper, presentation video, preview image, subtitle file, and supplemental file(s), 
 the instruction on video and image submission, and paper formatting. Note that 
 * Paper, copyright, and optional supplemental file(s) submissions are due <br />**August 15, 2021 @ 11:59 pm AoE**.
-* Presentation video, preview image with caption, and subtitle file submissions are due <br />**August 15, 2021 @ 11:59 pm AoE**.
+* Presentation video, preview image with caption, and subtitle file submissions are due <br />**September 15, 2021 @ 11:59 pm AoE**.
 
 LDAV assigned CPS Editor, Lisa O'Conner (loconner@computer.org), will assist authors as needed. 
 Please email Lisa should you have questions or encounter problems in your CPS submission. 

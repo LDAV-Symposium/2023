@@ -14,11 +14,11 @@ Author Notifications
 Camera-Ready Deadline
 : August 15, 2021
 
-Presentation Videos
-: August 15, 2021
-
 Poster Submissions
 : August 15, 2021
+
+Presentation Videos
+: September 15, 2021
 
 ## Symposium
 
