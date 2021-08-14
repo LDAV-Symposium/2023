@@ -54,11 +54,11 @@ Plagiarism in any form is unacceptable and will lead to a removal of the submiss
 ## Important Dates
 
 Two-page Poster Paper Submission
-: August 15, 2021, 11:59 PM (AOE)
+: August 22, 2021, 11:59 PM (AOE)
 
 Author Notification
-: August 19, 2021
+: August 26, 2021
 
 Camera-Ready Deadline
-: August 26, 2021
+: September 3, 2021
 
