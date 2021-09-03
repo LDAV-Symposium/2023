@@ -4,36 +4,40 @@ title: Program
 ---
 
 # Program
-TBA.
 
-<!--**Sunday, October 25, 2020**  
-(Mountain Time, USA) 
+**Sunday, October 25, 2021**
+(US Central Time)
 
 <table class="program">
   <tr>
     <td>8:00am &ndash; 8:10am</td>
     <td>
-      Opening Remarks (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>)<br/>      
+      Opening Remarks<br/>
+      <!--       (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>) -->
     </td>
   </tr>
   <tr>
     <td>8:10am &ndash; 9:00am</td>
     <td>
-      <h4>Keynote Presentation (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>)</h4>
-      <b>Large-Scale Visual Analytics: A Reflection on Methodology and Practice</b><br/>
-      <i>Professor Huamin Qu, Hong Kong University of Science and Technology</i>
+      <h4>Keynote Presentation
+      <!--       (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>) -->
+      </h4>
+      <i>Professor Alex Telea, Utrecht University</i><br>
+      <b>TBA</b><br/>
       <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
     </td>
   </tr>
   <tr>
     <td>9:00am &ndash; 9:30am</td>
     <td>
-      <h4>Best Paper  (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>)</h4>
-      (Session Chair: Hongfeng Yu)
+      <h4>Best Paper
+<!--       (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>) -->
+      </h4>
+      (Session Chair: TBA)
       <ul>
         <li>
-          Foveated Encoding for Large High-Resolution Displays<br/>
-          <i>Florian Frieß, Matthias Braun, Valentin Bruder, Steffen Frey, Guido Reina,Thomas Ertl</i>
+           Data-Aware Predictive Scheduling for Distributed-Memory Ray Tracing<br/>
+<!--           <i>Florian Frieß, Matthias Braun, Valentin Bruder, Steffen Frey, Guido Reina,Thomas Ertl</i> -->
         </li>
       </ul>
     </td>
@@ -43,23 +47,25 @@ TBA.
     <td>Break</td>
   </tr>
   <tr>
-    <td>10:00am &ndash; 11:30pm</td>
+    <td>10:00am &ndash; 11:30am</td>
     <td>
-      <h4>Session: In Situ (<a href="https://youtu.be/skM-gluIXzU" target="new">Youtube live stream</a>)</h4>
-      (Session Chair: Ming Jiang)
+      <h4>Session: Algorithms
+<!--       (<a href="https://youtu.be/skM-gluIXzU" target="new">Youtube live stream</a>) -->
+      </h4>
+      (Session Chair: TBA)
       <ul>
         <li>
-          <a href="https://doi.org/10.1109/LDAV51489.2020.00007" target="new">DIVA: A Declarative and Reactive Language for In Situ Visualization</a><br/>
-          <i>Qi Wu, Tyson Neuroth, Oleg Igouchkine, Aditya Konduri, Jacqueline Chen, Kwan-Liu Ma</i>          
+          Fast Approximation of Persistence Diagrams with Guarantees
         </li>
         <li>
-          <a href="https://doi.org/10.1109/LDAV51489.2020.00008" target="new">Data Parallel Hypersweeps for In Situ Topological Analysis</a><br/>
-          <i>Petar Hristov, Gunther Weber, Hamish Carr, Oliver Rübel, James Ahrens</i>          
+          IExchange: Asynchronous Communication and Termination Detection for Iterative Algorithms
         </li>
         <li>
-          <a href="https://doi.org/10.1109/LDAV51489.2020.00009" target="new">Comparing Time-to-Solution for In Situ Visualization Paradigms at Scale</a><br/>
-          <i>James Kress, Matthew Larsen, Jong Choi, Mark Kim, Mathew Wolf, Norbert Podhorszki, Scott Klasky, Hank Childs, David Pugmire</i>          
-        </li>        
+          Trigger Happy: Assessing the Viability of Trigger-Based In Situ Analysis
+        </li>
+        <li>
+          High-quality and Low-memory-footprint Progressive Decoding of Large-scale Particle Data <i>(Best Paper Honorable Mention)</i>
+        </li>
       </ul>
     </td>
   </tr>
@@ -70,22 +76,23 @@ TBA.
   <tr>
     <td>12:00pm &ndash; 1:30pm</td>
     <td>
-      <h4>Session: Rendering and Displays (<a href="https://youtu.be/piBNlAZKHAM" target="new">Youtube live stream</a>)</h4>
-      (Session Chair: Markus Hadwiger)
+      <h4>Session: Render/Display
+<!--       (<a href="https://youtu.be/skM-gluIXzU" target="new">Youtube live stream</a>) -->
+      </h4>
+      (Session Chair: TBA)
       <ul>
         <li>
-          <a href="https://doi.org/10.1109/LDAV51489.2020.00010" target="new">Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?</a><br/>
-          <font color="#0087FF">Best Paper Honorable Mention</font><br/>
-          <i>Will Usher, Valerio Pascucci</i>          
+          GPU-based Image Compression for Efficient Compositing in Distributed Rendering Applications
         </li>
         <li>
-          <a href="https://doi.org/10.1109/LDAV51489.2020.00011" target="new">Cinema Darkroom: A Deferred Rendering Framework for Large-Scale Datasets</a><br/>          
-          <i>Jonas Lukasczyk, Christoph Garth, Matthew Larsen, Wito Engelke, Ingrid Hotz, David Rogers, James Ahrens, Ross Maciejewski</i>          
+          Amortised Encoding for Large High-Resolution Displays
         </li>
         <li>
-          <a href="https://doi.org/10.1109/LDAV51489.2020.00012" target="new">Spatial Partitioning Strategies for Memory-Efficient Ray Tracing of Particles</a><br/>          
-          <i>Patrick Gralka, Ingo Wald, Sergej Geringer, Guido Reina, Thomas Ertl</i>
-        </li>        
+          Portable and Composable Flow Graphs for In Situ Analytics
+        </li>
+        <li>
+          An Entropy-Based Approach for Identifying User-Preferred  Camera Positions
+        </li>
       </ul>
     </td>
   </tr>
@@ -96,11 +103,7 @@ TBA.
   <tr>
     <td>2:00pm &ndash; 3:20pm</td>
     <td>
-      <h4>Panel</h4>
-      <b>Technical Advances in the Era of Big Data Analysis and Visualization (<a href="https://youtu.be/3tqyvXIRnyY" target="new">Youtube live stream</a>)</b><br/>
-      <i>Moderator: Julien Tierny</i><br/>
-      <i>Panelists: Jim Ahrens, Janine Bennett, Andreas Gerndt, Ken Moreland, Manish Parashar</i><br/>
-      <small>The year 2020 marks the tenth edition of the IEEE Symposium on Large Data Analysis and Visualization. At the occasion of this milestone, we would like to take a step back to contemplate the main accomplishments of our community over the last decade and present the main ongoing efforts in the land of large data analysis and visualization. For this, we gathered a panel of leading experts in the field, who will present their feedback on progresses in the last ten years and ongoing efforts on the topic. Future directions to take as a community, and how to organize research efforts to address them, will also be an important aspect of the panel. </small>
+      <h4>Early Career Researcher Lightning Talks</h4>
     </td>
   </tr>
   <tr>
@@ -110,7 +113,7 @@ TBA.
       Closing Remarks
     </td>
   </tr>
-</table>-->
+</table>
 
 ---
 
