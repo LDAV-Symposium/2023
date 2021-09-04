@@ -5,7 +5,7 @@ title: Program
 
 # Program
 
-**Sunday, October 25, 2021**
+**Monday, October 25, 2021**
 (US Central Time)
 
 <table class="program">
