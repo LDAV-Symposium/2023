@@ -36,7 +36,9 @@ title: Program
       (Session Chair: TBA)
       <ul>
         <li>
-           Data-Aware Predictive Scheduling for Distributed-Memory Ray Tracing<br/>
+           Data-Aware Predictive Scheduling for Distributed-Memory Ray Tracing
+           <br><i>Hyungman Park, Donald Fussell, Paul Navratil</i>
+           <br/>
 <!--           <i>Florian Frieß, Matthias Braun, Valentin Bruder, Steffen Frey, Guido Reina,Thomas Ertl</i> -->
         </li>
       </ul>
@@ -56,15 +58,36 @@ title: Program
       <ul>
         <li>
           Fast Approximation of Persistence Diagrams with Guarantees
+          <br><i>Jules Vidal, Julien Tierny</i>
         </li>
         <li>
           IExchange: Asynchronous Communication and Termination Detection for Iterative Algorithms
+          <br><i>Dmitriy Morozov, Tom Peterka,
+          Hanqi Guo,
+          Mukund Raj,
+          Jiayi Xu,
+          Han-Wei Shen
+          </i>
         </li>
         <li>
           Trigger Happy: Assessing the Viability of Trigger-Based In Situ Analysis
+          <br><i>
+          Matthew Larsen,
+          Cyrus		Harrison,
+          Terece	Turton,
+          Sudhanshu		Sane,
+          Stephanie		Brink,
+          Hank		Childs
+          </i>
         </li>
         <li>
           High-quality and Low-memory-footprint Progressive Decoding of Large-scale Particle Data <i>(Best Paper Honorable Mention)</i>
+          <br><i>
+          Duong		Hoang,
+          Harsh		Bhatia,
+          Peter		Lindstrom,
+          Valerio		Pascucci
+          </i>
         </li>
       </ul>
     </td>
@@ -79,19 +102,41 @@ title: Program
       <h4>Session: Render/Display
 <!--       (<a href="https://youtu.be/skM-gluIXzU" target="new">Youtube live stream</a>) -->
       </h4>
-      (Session Chair: TBA)
+      (Session Chair: Kelly Gaither)
       <ul>
         <li>
           GPU-based Image Compression for Efficient Compositing in Distributed Rendering Applications
+          <br><i>Riley Lipinski, Kenneth Moreland, Michael Papka, Thomas Marrinan
+</i>
         </li>
         <li>
           Amortised Encoding for Large High-Resolution Displays
+          <br>
+          <i>
+          Florian		Friess,
+          Michael		Becher,
+          Guido		Reina,
+          Thomas		Ertl
+          </i>
         </li>
         <li>
           Portable and Composable Flow Graphs for In Situ Analytics
+          <br><i>
+          Sergei		Shudler,
+          Steve		Petruzza,
+          Valerio		Pascucci,
+          Peer-Timo		Bremer
+          </i>
         </li>
         <li>
           An Entropy-Based Approach for Identifying User-Preferred  Camera Positions
+          <br><i>
+          Nicole	J	Marsaglia,
+          Yuya		Kawakami,
+          Samuel	David	Schwartz,
+          Stefan		Fields,
+          Hank		Childs
+          </i>
         </li>
       </ul>
     </td>
