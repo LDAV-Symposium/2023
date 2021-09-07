@@ -54,7 +54,7 @@ title: Program
       <h4>Session: Algorithms
 <!--       (<a href="https://youtu.be/skM-gluIXzU" target="new">Youtube live stream</a>) -->
       </h4>
-      (Session Chair: TBA)
+      (Session Chair: Filip Sadlo)
       <ul>
         <li>
           Fast Approximation of Persistence Diagrams with Guarantees
