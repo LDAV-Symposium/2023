@@ -56,6 +56,6 @@ LDAV assigned CPS Editor, Lisa O'Conner (loconner@computer.org), will assist aut
 Please email Lisa should you have questions or encounter problems in your CPS submission. 
 
 
-<!-- [LDAV slide template]: assets/LDAV_2020_Template.pptx -->
+[LDAV slide template]: assets/LDAV_2021_Template.pptx
 [IEEE VIS speaker information]: http://ieeevis.org/year/2021/info/presenter-information/talk-recording-guide
 
