@@ -1,5 +1,5 @@
 
-title: LDAV 2021
+title: LDAV 2022
 email: ldav@ieeevis.org
 baseurl: ""
 url: "http://ldav.org"
@@ -7,7 +7,7 @@ url: "http://ldav.org"
 # --- site config ---
 
 description: > 
-  The 11th IEEE Symposium on Large Data Analysis and Visualization, in conjunction with IEEE VIS 2021, New Orleans, Louisiana, USA, October 25, 2021
+  The 12th IEEE Symposium on Large Data Analysis and Visualization, in conjunction with IEEE VIS 2022, Oklahoma City, USA (Hybrid), 16-21 October 2022
 
 navigation:
  - title: Home
