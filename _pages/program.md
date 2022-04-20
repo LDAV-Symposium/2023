@@ -5,6 +5,10 @@ title: Program
 
 # Program
 
+
+## TBD
+
+<!--
 **Monday, October 25, 2021**
 (US Central Time)
 
@@ -13,14 +17,12 @@ title: Program
     <td>8:00am &ndash; 8:10am</td>
     <td>
       Opening Remarks (Julien Tierny)<br/>
-      <!--       (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>) -->
     </td>
   </tr>
   <tr>
     <td>8:10am &ndash; 9:00am</td>
     <td>
       <h4>Keynote Presentation
-      <!--       (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>) -->
       </h4>
       <i>Professor Alex Telea, Utrecht University</i><br>
       <b>Image-Based Graph Drawing:<br> From a Million Nodes and Edges to a Million Pixels and Back</b><br/>
@@ -31,16 +33,14 @@ title: Program
     <td>9:00am &ndash; 9:30am</td>
     <td>
       <h4>Best Paper
-<!--       (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>) -->
-      </h4>
+     </h4>
       (Session Chair: Julien Tierny)
       <ul>
         <li>
            Data-Aware Predictive Scheduling for Distributed-Memory Ray Tracing
            <br><i>Hyungman Park, Donald Fussell, Paul Navratil</i>
            <br/>
-<!--           <i>Florian Frieß, Matthias Braun, Valentin Bruder, Steffen Frey, Guido Reina,Thomas Ertl</i> -->
-        </li>
+       </li>
       </ul>
     </td>
   </tr>
@@ -52,8 +52,7 @@ title: Program
     <td>10:00am &ndash; 11:30am</td>
     <td>
       <h4>Session: Algorithms
-<!--       (<a href="https://youtu.be/skM-gluIXzU" target="new">Youtube live stream</a>) -->
-      </h4>
+     </h4>
       (Session Chair: Filip Sadlo)
       <ul>
         <li>
@@ -100,8 +99,7 @@ title: Program
     <td>12:00pm &ndash; 1:30pm</td>
     <td>
       <h4>Session: Render/Display
-<!--       (<a href="https://youtu.be/skM-gluIXzU" target="new">Youtube live stream</a>) -->
-      </h4>
+     </h4>
       (Session Chair: Kelly Gaither)
       <ul>
         <li>
@@ -190,7 +188,7 @@ Alexandru C. Telea received his PhD (2000) in Computer Science from the Eindhove
 
 # Posters
 TBA.
-
+-->
 <!--The LDAV posters session will take place virtually with IEEE VIS Poster Session via iPosters.
 
   * <a href="https://doi.org/10.1109/LDAV51489.2020.00013" target="new">A Distributed Algorithm for Force Directed Edge Bundling</a><br />

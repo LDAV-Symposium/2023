@@ -7,6 +7,9 @@ title: Presenters
 
 ## Presentation Video
 
+## TBD 
+
+<!--
 All papers (full and short) get 15 minutes for the talk and then 5 minutes
 for questions and switching presenters. We have a full schedule this year – 
 please stay on time.
@@ -24,9 +27,12 @@ of your presentation video must be 1920x1080, as indicated in the
 
 Unlike the main VIS conference, LDAV paper authors do not need to prepare 
 the preview or fast-forward video. 
+-->
 
 ## Final Submission
 
+## TBD
+<!--
 This year, there have been significant changes in the final paper submission 
 process for IEEE VIS and associated events, including LDAV. 
 
@@ -59,3 +65,4 @@ Please email Lisa should you have questions or encounter problems in your CPS su
 [LDAV slide template]: assets/LDAV_2021_Template.pptx
 [IEEE VIS speaker information]: http://ieeevis.org/year/2021/info/presenter-information/talk-recording-guide
 
+-->

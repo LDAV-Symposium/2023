@@ -5,6 +5,9 @@ title: Call for Posters
 
 # Call for Posters
 
+## TBD
+
+<!--
 Contact: <ldav21b@precisionconference.com>
 
 We invite you to submit unpublished work to the IEEE LDAV 2021 Poster Program.
@@ -62,3 +65,4 @@ Author Notification
 Camera-Ready Deadline
 : September 3, 2021
 
+-->

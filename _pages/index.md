@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# LDAV 2021 - Big Data Analysis and Visualization
+# LDAV 2022 - Big Data Analysis and Visualization
 
 Modern large-scale scientific simulations, sensor networks, and experiments are
 generating enormous datasets, with some projects approaching the multiple
@@ -14,10 +14,10 @@ and urban planning. The tools and approaches needed to mine, analyze, and
 visualize data at extreme scales can be fully realized only if there are
 end-to-end solutions, which demands collective, interdisciplinary efforts.
 
-<img id="teasers" src="assets/teasers21.jpg" />
+<img id="teasers" src="assets/teasers22.png" />
 
-The 11th IEEE Large Scale Data Analysis and Visualization (LDAV) symposium, to be
-held in conjunction with IEEE VIS 2021, is specifically targeting methodological
+The 12th IEEE Large Scale Data Analysis and Visualization (LDAV) symposium, to be
+held in conjunction with IEEE VIS 2022, is specifically targeting methodological
 innovation, algorithmic foundations, and possible end-to-end solutions. The LDAV
 symposium will bring together domain scientists, data analysts, visualization
 researchers, and users to foster common ground for solving both near- and

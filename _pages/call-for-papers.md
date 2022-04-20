@@ -5,7 +5,7 @@ title: Call for Papers
 
 # Call for Papers
 
-Contact: <ldav21a@precisionconference.com>
+Contact: <ldav22a@precisionconference.com>
 
 Data scales are increasing throughout scientific, business, and research 
 contexts. Large-scale scientific simulations, observation technologies, 
@@ -21,8 +21,8 @@ approaches needed to search, analyse, and visualize data at extreme
 scales can be fully realized only from end-to-end solutions, and with 
 collective, interdisciplinary efforts. 
 
-The 11th IEEE Large Scale Data Analysis and Visualization (LDAV) 
-symposium, to be held in conjunction with IEEE VIS 2021, is specifically 
+The 12th IEEE Large Scale Data Analysis and Visualization (LDAV) 
+symposium, to be held in conjunction with IEEE VIS 2022, is specifically 
 targeting methodological innovation, algorithmic foundations, and 
 possible end-to-end solutions. The LDAV symposium will bring together 
 domain experts, data analysts, visualization researchers, and users to 
@@ -72,7 +72,7 @@ Submission of an abstract is required prior to submission of a paper or short pa
 Submission site note: Go to the
 [submission site](https://new.precisionconference.com/vgtc)
 (<https://new.precisionconference.com/vgtc>), log in, go to 'Submissions', 
-and select Society 'VGTC', Conference 'LDAV 2021', and Track 'LDAV 2021 Papers'.
+and select Society 'VGTC', Conference 'LDAV 2022', and Track 'LDAV 2022 Papers'.
 
 ### Full Papers
 Full papers should have a maximum length of 9 pages with up to two (2) 
@@ -100,23 +100,24 @@ proceedings and via the IEEE Xplore Digital Library.
 
 The LDAV Program Committee will present a Best Paper award to the 
 authors whose submission is deemed the strongest according to the 
-reviewing criteria. This award will be announced in conjunction with VIS 2021. 
+reviewing criteria. This award will be announced in conjunction with VIS 2022. 
 
+<!--
 The Best Paper for LDAV will be published directly in IEEE Transactions on 
 Visualization and Computer Graphics (TVCG). Further, in accordance with TVCG's <a href="https://www.computer.org/publications/author-resources/peer-review/journals#preliminary">policy for extending conference papers</a>, some excellent papers will be encouraged to submit journal versions of their work to TVCG, with reviewer continuity.
-
+-->
 ## Important Dates
 
 Please note: all deadlines are firm and no extensions will be granted.
 
 Abstract Deadline (firm) 
-: June 21, 2021, 11:59 PM (AOE)
+: June 13, 2022, 11:59 PM (AOE)
 
 Paper Submission (firm)
-: June 25, 2021, 11:59 PM (AOE)
+: June 30, 2022, 11:59 PM (AOE)
 
 Author Notification
-: July 30, 2021
+: July 25, 2022
 
 Camera-Ready Deadline (firm)
-: August 15, 2021
+: August 8, 2022

@@ -10,11 +10,11 @@ title: Organization
 <div class="left">
 ## Symposium Chairs
 
+Peer-Timo Bremer
+: Lawrence Livermore National Laboratory
+
 Kristi Potter
 : National Renewable Energy Laboratory
-
-Julien Tierny
-: CNRS - Sorbonne Universit&eacute;
 
 Chaoli Wang
 : University of Notre Dame
@@ -24,19 +24,23 @@ Chaoli Wang
 Johanna Beyer
 : Harvard University
 
-Peer-Timo Bremer
-: Lawrence Livermore National Laboratory
-
 Paul Navratil
 : Texas Advanced Computing Center
 
-## Poster Chairs
+Steffen Frey 
+: University of Groningen
 
-Steffen Frey
-: University of Stuttgart 
+## Poster Chairs
 
 Silvio Rizzi
 : Argonne National Laboratory
+
+Jonas Lukasczyk
+: Technical University Kaiserslautern
+
+Stefan Zellmann
+: Bonn-Rhein-Sieg University of Applied Sciences
+
 
 </div>
 <div class="right">
@@ -53,7 +57,6 @@ Christoph Garth
 
 Kenneth Moreland
 : Oak Ridge National Laboratory
-
 
 Hongfeng Yu
 : University of Nebraska-Lincoln
