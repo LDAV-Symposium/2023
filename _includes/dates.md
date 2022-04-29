@@ -6,7 +6,7 @@ Paper Abstracts
 : June 13, 2022
 
 Paper Submissions
-: June 30, 2022
+: June 20, 2022
 
 Author Notifications
 : July 25, 2022
