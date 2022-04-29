@@ -114,7 +114,7 @@ Abstract Deadline (firm)
 : June 13, 2022, 11:59 PM (AOE)
 
 Paper Submission (firm)
-: June 30, 2022, 11:59 PM (AOE)
+: June 20, 2022, 11:59 PM (AOE)
 
 Author Notification
 : July 25, 2022
