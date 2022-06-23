@@ -66,40 +66,69 @@ Hongfeng Yu
 ## Program Committee
 
 
-Wes Bethel
-: Lawrence Berkeley National Laboratory
+Wes Bethel : Lawrence Berkeley National Laboratory
 
 Mark Bolstad : Sandia National Laboratories
-Roxana Bujack : Los Alamos National Laboratory
-Hamish Carr : University of Leeds
-Warren Davis : Sandia National Laboratories
-Soumya Dutta : Los Alamos National Laboratory
-Takanori Fujiwara : Linköping University
-Kelly Gaither : Texas Advanced Computing Center
-Tim Gerrits : RWTH Aachen University
-Hanqi Guo	: Argonne National Laboratory
-Markus Hadwiger	: King Abdullah University of Science and Technology
-Jun Han	: The Chinese University of Hong Kong
-Won-Ki Jeong : Korea University
-Ming Jiang : Lawrence Livermore National Laboratory
-James Klosowski	: AT&T Labs Research
-Aaron	Knoll	: Advanced Micro Devices
-Kwan-Liu Ma	: University of California at Davis
-Victor Mateevitsi : University of Illinois at Chicago
-Patrick O'Leary	: Kitware
-John Patchett : Los Alamos National Laboratory
-David Pugmire	: Oak Ridge National Laboratory
-Bruno Raffin : INRIA
-Silvio Rizzi : Argonne National Laboratory
-David Rogers : Los Alamos National Laboratory
-Filip Sadlo : Heidelberg University
-Sudhanshu Sane : Luminary Cloud
-Timothy Shead : Sandia National Laboratories
-Han-Wei Shen : The Ohio State University
-David Thompson : Kitware
-Will Usher : Intel
-Tom Vierjahn : Westphalian University of Applied Sciences
-Gunther Weber : Lawrence Berkeley National Laboratory
+
+  Roxana Bujack : Los Alamos National Laboratory
+
+  Hamish Carr : University of Leeds
+
+  Warren Davis : Sandia National Laboratories
+  
+  Soumya Dutta : Los Alamos National Laboratory
+
+  Takanori Fujiwara : Linköping University
+
+  Kelly Gaither : Texas Advanced Computing Center
+
+  Tim Gerrits : RWTH Aachen University
+
+  Hanqi Guo	: Argonne National Laboratory
+
+  Markus Hadwiger	: King Abdullah University of Science and Technology
+
+  Jun Han	: The Chinese University of Hong Kong
+
+  Won-Ki Jeong : Korea University
+
+  Ming Jiang : Lawrence Livermore National Laboratory
+
+  James Klosowski	: AT&T Labs Research
+
+  Aaron	Knoll	: Advanced Micro Devices
+
+  Kwan-Liu Ma	: University of California at Davis
+
+  Victor Mateevitsi : University of Illinois at Chicago
+
+  Patrick O'Leary	: Kitware
+
+  John Patchett : Los Alamos National Laboratory
+
+  David Pugmire	: Oak Ridge National Laboratory
+
+  Bruno Raffin : INRIA
+
+  Silvio Rizzi : Argonne National Laboratory
+
+  David Rogers : Los Alamos National Laboratory
+
+  Filip Sadlo : Heidelberg University
+
+  Sudhanshu Sane : Luminary Cloud
+
+  Timothy Shead : Sandia National Laboratories
+
+  Han-Wei Shen : The Ohio State University
+
+  David Thompson : Kitware
+
+  Will Usher : Intel
+
+  Tom Vierjahn : Westphalian University of Applied Sciences
+
+  Gunther Weber : Lawrence Berkeley National Laboratory
   
  
 
