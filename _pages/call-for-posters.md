@@ -11,7 +11,7 @@ Contact: <ldav-posters@googlegroups.com>
 
 We invite you to submit unpublished work to the IEEE LDAV 2022 Poster Program. It is a venue designed to highlight ongoing research and late breaking topics that have produced promising preliminary results. The poster program will be a great opportunity for the authors to interact with the symposium attendees and solicit feedback.
 
-In addition to the topics listed under [Call for Papers](/2022/call-for-papers.html), we also welcome submissions that:
+In addition to the topics listed under [Call for Papers](https://ldav.org/2022/call-for-papers.html), we also welcome submissions that:
 
 * showcase successful stories of applying visualization to large-scale data intensive applications, and
 * highlights of recent visualization work presented or published in another venue.
