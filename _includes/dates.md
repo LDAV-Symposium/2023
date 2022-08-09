@@ -15,7 +15,7 @@ Camera-Ready Deadline
 : August 8, 2022
 
 Poster Submission
-: August 15, 2022, 11:59 PM (AOE)
+: August 16, 2022, 11:59 PM (AOE)
 
 Presentation Videos
 : TBD
