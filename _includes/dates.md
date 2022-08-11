@@ -22,4 +22,4 @@ Presentation Videos
 
 ## Symposium
 
-**October 15, 2022**
+**October 16, 2022**
