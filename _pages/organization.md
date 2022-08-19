@@ -100,7 +100,7 @@ Mark Bolstad : Sandia National Laboratories
 
   Kwan-Liu Ma	: University of California at Davis
 
-  Victor Mateevitsi : University of Illinois at Chicago
+  Victor Mateevitsi : Argonne National Laboratory
 
   Patrick O'Leary	: Kitware
 
