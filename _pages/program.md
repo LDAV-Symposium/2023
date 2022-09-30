@@ -44,108 +44,67 @@ title: Program
         </li>
         <li>
           A Prototype for Pipeline-Composable Task-Based Visualization Algorithms
-          <br><i>Dmitriy Morozov, Tom Peterka,
-          Hanqi Guo,
-          Mukund Raj,
-          Jiayi Xu,
-          Han-Wei Shen
+          <br><i>Marvin Petersen, Kilian Werner, Andrea Schnorr, Torsten Wolfgang Kuhlen, Christoph Garth
           </i>
         </li>
         <li>
-          Trigger Happy: Assessing the Viability of Trigger-Based In Situ Analysis
-          <br><i>
-          Matthew Larsen,
-          Cyrus		Harrison,
-          Terece	Turton,
-          Sudhanshu		Sane,
-          Stephanie		Brink,
-          Hank		Childs
-          </i>
-        </li>
-        <li>
-          High-quality and Low-memory-footprint Progressive Decoding of Large-scale Particle Data <i>(Best Paper Honorable Mention)</i>
-          <br><i>
-          Duong		Hoang,
-          Harsh		Bhatia,
-          Peter		Lindstrom,
-          Valerio		Pascucci
-          </i>
+          High-Quality Progressive Alignment of Large 3D Microscopy Data
+          <br><i> Aniketh Venkat,  Duong Hoang, Attila Gyulassy, Peer-Timo Bremer, Frederick Federer, Alessandra Angelucci, Valerio Pascucci </i>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>11:30am &ndash; 12:00 pm</td>
+    <td>12:00pm &ndash; 2:00pm</td>
     <td>Break</td>
   </tr>
   <tr>
-    <td>12:00pm &ndash; 1:30pm</td>
+    <td>2:00pm &ndash; 3:15pm</td>
     <td>
-      <h4>Session: Render/Display
+      <h4>Session: Topology & Ensembles
      </h4>
-      (Session Chair: Kelly Gaither)
+      (Session Chair: Markus Hadwiger)
       <ul>
         <li>
-          GPU-based Image Compression for Efficient Compositing in Distributed Rendering Applications
-          <br><i>Riley Lipinski, Kenneth Moreland, Michael Papka, Thomas Marrinan
+          Distributed Hierarchical Contour Trees
+          <br><i>Hamish Carr, Oliver Rübel
 </i>
         </li>
         <li>
-          Amortised Encoding for Large High-Resolution Displays
+          Topological Analysis of Ensembles of Hydrodynamic Turbulent Flows, an Experimental Study
           <br>
-          <i>
-          Florian		Friess,
-          Michael		Becher,
-          Guido		Reina,
-          Thomas		Ertl
+          <i>Florent Nauleau, Fabien Vivodtzev, Thibault Bridel-Bertomeu, Héloïse Beaugendre, Julien Tierny
           </i>
         </li>
         <li>
-          Portable and Composable Flow Graphs for In Situ Analytics
-          <br><i>
-          Sergei		Shudler,
-          Steve		Petruzza,
-          Valerio		Pascucci,
-          Peer-Timo		Bremer
-          </i>
-        </li>
-        <li>
-          An Entropy-Based Approach for Identifying User-Preferred  Camera Positions
-          <br><i>
-          Nicole	J	Marsaglia,
-          Yuya		Kawakami,
-          Samuel	David	Schwartz,
-          Stefan		Fields,
-          Hank		Childs
-          </i>
+          Angular-based Edge Bundled Parallel Coordinates Plot for the Visual Analysis of Large Ensemble Simulation Data
+          <br><i>Keita Watanabe, Naohisa Sakamoto, Yasumitsu Maejima</i>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>1:30pm &ndash; 2:00pm</td>
+    <td>3:15pm &ndash; 3:45pm</td>
     <td>Break</td>
   </tr>
   <tr>
-    <td>2:00pm &ndash; 3:20pm</td>
+    <td>3:45pm &ndash; 4:50pm</td>
     <td>
       <h4>Early Career Researcher Lightning Talks</h4>
-      (Session Chair: Chaoli Wang)
+      (Session Chair: Kristi Potter)
       <ul>
-        <li>James Kress: <i>In-Line vs. In-Transit In Situ: Which Technique to Use at Scale?</i>
-        </li>
-        <li> Jun Han: <i>Deep Learning for Scientific Data Representation and Generation</i><br></li>
-        <li> Sam Molnar: <i>Metropolitan-Scale Power Grid Analysis: Geospatial Networked Time Series Data with Hierarchical Structure</i><br></li>
-        <li> Takanori Fujiwara: <i>Approaches and Challenges in Visual Analytics of Streaming High-dimensional Data</i><br></li>
-        <li> Victor Mateevitsi: <i>SENSEI, Scalable in situ analysis and visualization</i><br></li>
-        <li> Sudhanshu Sane: <i>Exploratory Time-Varying Flow Visualization via Lagrangian Representations</i></li>
+        <li> Nils-Arne Dreier: <i>In-situ analyses and visualization of large climate model data</i> </li>
+        <li> Qi Wu: <i>Instant Neural Representation for Interactive Volume Rendering</i><br></li>
+        <li> Yu Qin: <i>Metric Learning for Topological Comparisons</i><br></li>
+        <li> Isaac Nealey: <i>In-Transit Methods for Immersive Visualization</i><br></li>
+        <li> Cooper Maira: <i>Large Image Viewer for Fast Annotation</i><br></li>
+        <li> Dylan Cashman: <i>Senior Expert, Data Science and Advanced Visual Analytics</i></li>
         </ul>
     </td>
   </tr>
   <tr>
-    <td>3:20pm &ndash; 3:30pm</td>
+    <td>4:50pm &ndash; 5:00pm</td>
     <td>
-      Best Paper Awards (Johanna Beyer)<br/>
       Closing Remarks (Kristi Potter)
     </td>
   </tr>
@@ -155,16 +114,16 @@ title: Program
 
 # Keynote
 
-**Image-Based Graph Drawing: From a Million Nodes and Edges to a Million Pixels and Back**<br/>
-_Professor Alex Telea, Utrecht University, Netherlands_
+**Machine Learning for Large Scale Scientific Data Analysis and Visualization**<br/>
+_Professor Han-Wei Shen, The Ohio State University, USA_
 
-Visualizing large, multivariate, and time-dependent graphs is one of the grand challenges of information visualization. In recent years, image-based techniques have emerged as a powerful instrument to handle the visualization of big datasets. Yet, how these techniques, well proven for exploring data in scientific visualization and imaging, can be adapted to handle graph data, is still an open point. In this talk, I aim to provide the missing link between scivis, imaging, and graph visualization. I will explore the characteristics of scivis and imaging data that make it inherently amenable to multiscale visualization approaches, and next outline several directions by which graph data can be brought to the same form, thereby inheriting the desired scalable visualization options. Next, I will propose a taxonomy of multiscale graph visualization methods centered around the image-based approach. Examples will illustrate the added-value of image-based visualization of graphs from several domains. Finally, I will outline the open challenges of image-based methods for visualizing high-variate and time-dependent graphs.
+In this talk, I will discuss several of our recent developments on using machine learning for scientific data analysis and visualization. I will primarily focus on three directions that we have seen some promising results: visualization surrogates, latent representations for scientific data, and methods that optimize the scientific visualization pipeline. I will first discuss how visualization surrogates can help streamline the visualization and analysis of large-scale ensemble simulations and facilitate the exploration of their immense input parameter space. Three different approaches for constructing such visualization surrogates: image space, object space, and hybrid image-object space approaches will be discussed. Then I will discuss how neural networks can be used to extract succinct representations from scientific data for rapid exploration and tracking of features. The use of geometric convolution to represent 3D particle data, and how regions of interest can be used as important measures for more efficient latent generation
+will be discussed. Finally, I will describe how reinforcement learning can be used for automatic load balancing of parallel particle tracing, and how super-resolution architectures can be used for efficient representations of scalar and vector scientific data. 
 
 #### Speaker
 
-<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/telea.jpg" />
-Alexandru C. Telea received his PhD (2000) in Computer Science from the Eindhoven University of Technology, the Netherlands. He was assistant professor in visualization and computer graphics at the same university (until 2007) and then full professor of visualization at the University of Groningen, the Netherlands. Since 2019 he is full professor of visual data analytics at Utrecht University, the Netherlands. His interests include high-dimensional visualization, visual analytics, and image-based information visualization. He is the author of the textbook "Data Visualization - Principles and Practice" (CRC Press, 2014).
-
+<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/hanwei.jpg" />
+Han-Wei Shen is a Full Professor at The Ohio State University. He is a member of IEEE Visualization Academy, an Associate-Editor-in-Chief for IEEE Transactions on Visualization and Computer Graphics (TVCG), and will serve as the Editor-in-Chief for TVCG starting January 2023. His primary research interests are scientific visualization and computer graphics. Professor Shen is a winner of National Science Foundation's CAREER award and US Department of Energy's Early Career Principal Investigator Award. He has published more than 50 papers in IEEE Transactions on Visualization and Computer Graphics and IEEE Visualization conference, the very top visualization journal and conference. 
 <br>
 
 ---
