@@ -6,61 +6,44 @@ title: Program
 # Program
 
 
-## TBD
 
-<!--
-**Monday, October 25, 2021**
+**Sunday, October 16, 2022**
 (US Central Time)
 
 <table class="program">
   <tr>
-    <td>8:00am &ndash; 8:10am</td>
+    <td>9:00am &ndash; 9:15am</td>
     <td>
-      Opening Remarks (Julien Tierny)<br/>
+      Opening Remarks (Paul Navratil)<br/>
     </td>
   </tr>
   <tr>
-    <td>8:10am &ndash; 9:00am</td>
+    <td>9:15am &ndash; 10:15am</td>
     <td>
       <h4>Keynote Presentation
       </h4>
-      <i>Professor Alex Telea, Utrecht University</i><br>
-      <b>Image-Based Graph Drawing:<br> From a Million Nodes and Edges to a Million Pixels and Back</b><br/>
+      <i>Professor Han-Wei Shen, The Ohio State University</i><br>
+      <b>Machine Learning for Large Scale Scientific Data Analysis and Visualization</b><br/>
       <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
     </td>
   </tr>
   <tr>
-    <td>9:00am &ndash; 9:30am</td>
-    <td>
-      <h4>Best Paper
-     </h4>
-      (Session Chair: Julien Tierny)
-      <ul>
-        <li>
-           Data-Aware Predictive Scheduling for Distributed-Memory Ray Tracing
-           <br><i>Hyungman Park, Donald Fussell, Paul Navratil</i>
-           <br/>
-       </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>9:30am &ndash; 10:00am</td>
+    <td>10:15am &ndash; 10:45am</td>
     <td>Break</td>
   </tr>
   <tr>
-    <td>10:00am &ndash; 11:30am</td>
+    <td>10:45am &ndash; 12:00pm</td>
     <td>
-      <h4>Session: Algorithms
+      <h4>Session: Parallelization & Progressiveness
      </h4>
-      (Session Chair: Filip Sadlo)
+      (Session Chair: David Pugmire)
       <ul>
         <li>
-          Fast Approximation of Persistence Diagrams with Guarantees
-          <br><i>Jules Vidal, Julien Tierny</i>
+          Hybrid Image-/Data-Parallel Rendering Using Island Parallelism
+          <br><i>Stefan Zellmann, Ingo Wald, Joao Barbosa, Serkan Demirci, Alper Sahistan, Ugur Gudukbay</i>
         </li>
         <li>
-          IExchange: Asynchronous Communication and Termination Detection for Iterative Algorithms
+          A Prototype for Pipeline-Composable Task-Based Visualization Algorithms
           <br><i>Dmitriy Morozov, Tom Peterka,
           Hanqi Guo,
           Mukund Raj,
