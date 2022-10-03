@@ -22,8 +22,9 @@ title: Program
     <td>
       <h4>Keynote Presentation
       </h4>
-      <i>Professor Han-Wei Shen, The Ohio State University</i><br>
-      <b>Machine Learning for Large Scale Scientific Data Analysis and Visualization</b><br/>
+      (Session Chair: Chaolin Wang)<br/>
+      <i>Professor Han-Wei Shen, The Ohio State University</i>
+      <br><b>Machine Learning for Large Scale Scientific Data Analysis and Visualization</b><br/>
       <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
     </td>
   </tr>
@@ -130,10 +131,3 @@ Han-Wei Shen is a Full Professor at The Ohio State University. He is a member of
 
 # Posters
 TBA.
--->
-<!--The LDAV posters session will take place virtually with IEEE VIS Poster Session via iPosters.
-
-  * <a href="https://doi.org/10.1109/LDAV51489.2020.00013" target="new">A Distributed Algorithm for Force Directed Edge Bundling</a><br />
-   _Yves Tuyishime, Yu Pan, Hongfeng Yu_
-  
- -->
