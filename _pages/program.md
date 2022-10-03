@@ -22,7 +22,7 @@ title: Program
     <td>
       <h4>Keynote Presentation
       </h4>
-      (Session Chair: Chaolin Wang)<br/>
+      (Session Chair: Chaoli Wang)<br/>
       <i>Professor Han-Wei Shen, The Ohio State University</i>
       <br><b>Machine Learning for Large Scale Scientific Data Analysis and Visualization</b><br/>
       <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
