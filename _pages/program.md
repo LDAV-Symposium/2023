@@ -79,7 +79,7 @@ title: Program
         </li>
         <li>
           Angular-based Edge Bundled Parallel Coordinates Plot for the Visual Analysis of Large Ensemble Simulation Data
-          <br><i>Keita Watanabe, Naohisa Sakamoto, Yasumitsu Maejima</i>
+          <br><i>Keita Watanabe, Naohisa Sakamoto, Jorji Nonaka, Yasumitsu Maejima</i>
         </li>
       </ul>
     </td>
