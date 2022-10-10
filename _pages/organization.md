@@ -60,6 +60,9 @@ Kenneth Moreland
 
 Hongfeng Yu
 : University of Nebraska-Lincoln
+
+Julien Tierny
+: CNRS - Sorbonne Université
 </div>
 
 <div class="left">
