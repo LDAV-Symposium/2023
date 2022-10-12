@@ -68,7 +68,7 @@ title: Program
       <ul>
         <li>
           Distributed Hierarchical Contour Trees
-          <br><i>Hamish Carr, Oliver Rübel
+          <br><i>Hamish Carr, Oliver Rübel, Gunther Weber
 </i>
         </li>
         <li>
