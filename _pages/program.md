@@ -130,4 +130,13 @@ Han-Wei Shen is a Full Professor at The Ohio State University. He is a member of
 ---
 
 # Posters
-TBA.
+- *New Triggers for Automatic Camera Placement Over Time*, Meghanto Majumder, Nicole J Marsaglia, and Hank Childs 
+- *Massive Data Visualization Techniques for use in Virtual Reality Devices*, Jason A Ortiz, Joseph Insley, Janet Knowles, Victor A Mateevitsi, Michael E. Papka, and Silvio Rizzi
+- *Exploration Tool for Effectively Interpreting the Visual Metaphor Process of Sentiment Visualization*, Hyoji Ha, Kwanghyuk Moon, Hyerim Joun, 
+Hyegyeong Kim, and Kyungwon Lee 
+- *Toward Bi-directional In Situ Visualization and Analysis of Blood Flow Simulations With Dynamic Deforming Boundaries*, Nazariy Tishchenko, Nicola Ferrier, Joseph Insley, Victor A Mateevitsi, Michael E. Papka, Silvio Rizzi, and Jifu Tan
+- *Distributed Volumetric Neural Representation for in situ Visualization and Analysis*, Qi Wu, Joseph Insley, Victor A Mateevitsi, Silvio Rizzi, and Kwan-Liu Ma 
+- *In-Transit Data Visualization with SENSEI, Catalyst, and Unreal Engine*, Isaac Nealey, Nicola Ferrier, Joseph Insley, Victor A Mateevitsi, Silvio Rizzi, and Jurgen Schulze
+ 
+
+
