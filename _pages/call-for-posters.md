@@ -5,8 +5,9 @@ title: Call for Posters
 
 # Call for Posters
 
-## TBD
+Coming Soon!
 
+<!--
 Contact: <ldav-posters@googlegroups.com>
 
 We invite you to submit unpublished work to the IEEE LDAV 2022 Poster Program. It is a venue designed to highlight ongoing research and late breaking topics that have produced promising preliminary results. The poster program will be a great opportunity for the authors to interact with the symposium attendees and solicit feedback.
@@ -58,3 +59,4 @@ Camera-Ready Deadline
 Video Preview deadline
 : September 1, 2022
 
+-->

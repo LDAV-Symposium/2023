@@ -16,122 +16,122 @@ Peer-Timo Bremer
 Kristi Potter
 : National Renewable Energy Laboratory
 
-Chaoli Wang
-: University of Notre Dame
-
 ## Paper Chairs
-
-Johanna Beyer
-: Harvard University
-
-Paul Navratil
-: Texas Advanced Computing Center
 
 Steffen Frey 
 : University of Groningen
 
-## Poster Chairs
-
 Silvio Rizzi
 : Argonne National Laboratory
+
+Gunter Weber
+: Lawrence Berkeley National Laboratory
+
+## Poster Chairs
+
+Soumya Dutta
+:  Indian Institute of Technology, Kanpur (IITK)
 
 Jonas Lukasczyk
 : Technical University Kaiserslautern
 
-Stefan Zellmann
-: Bonn-Rhein-Sieg University of Applied Sciences
-
+Nicole Marsiglia
+: Lawrence Livermore National Laboratory
 
 </div>
 <div class="right">
 ## Steering Committee
 
-Janine Bennett
-: Sandia National Laboratories
-
 Hank Childs
 : University of Oregon
 
-Christoph Garth
-: University of Kaiserslautern
+Chaoli Wang 
+: University of Notre Dame
 
 Kenneth Moreland
 : Oak Ridge National Laboratory
 
-Hongfeng Yu
-: University of Nebraska-Lincoln
+Kristi Potter
+: National Renewable Energy Laboratory
 
 Julien Tierny
 : CNRS - Sorbonne Université
+
+Hongfeng Yu
+: University of Nebraska-Lincoln
+
 </div>
 
 <div class="left">
 ## Program Committee
 
+TBD
+
+<!--
 
 Wes Bethel : Lawrence Berkeley National Laboratory
 
 Mark Bolstad : Sandia National Laboratories
 
-  Roxana Bujack : Los Alamos National Laboratory
+Roxana Bujack : Los Alamos National Laboratory
 
-  Hamish Carr : University of Leeds
+Hamish Carr : University of Leeds
 
-  Warren Davis : Sandia National Laboratories
-  
-  Soumya Dutta : Los Alamos National Laboratory
+Warren Davis : Sandia National Laboratories
 
-  Takanori Fujiwara : Linköping University
+Soumya Dutta : Los Alamos National Laboratory
 
-  Kelly Gaither : Texas Advanced Computing Center
+Takanori Fujiwara : Linköping University
 
-  Tim Gerrits : RWTH Aachen University
+Kelly Gaither : Texas Advanced Computing Center
 
-  Hanqi Guo	: Argonne National Laboratory
+Tim Gerrits : RWTH Aachen University
 
-  Markus Hadwiger	: King Abdullah University of Science and Technology
+Hanqi Guo	: Argonne National Laboratory
 
-  Jun Han	: The Chinese University of Hong Kong
+Markus Hadwiger	: King Abdullah University of Science and Technology
 
-  Won-Ki Jeong : Korea University
+Jun Han	: The Chinese University of Hong Kong
 
-  Ming Jiang : Lawrence Livermore National Laboratory
+Won-Ki Jeong : Korea University
 
-  James Klosowski	: AT&T Labs Research
+Ming Jiang : Lawrence Livermore National Laboratory
 
-  Aaron	Knoll	: Advanced Micro Devices
+James Klosowski	: AT&T Labs Research
 
-  Kwan-Liu Ma	: University of California at Davis
+Aaron	Knoll	: Advanced Micro Devices
 
-  Victor Mateevitsi : Argonne National Laboratory
+Kwan-Liu Ma	: University of California at Davis
 
-  Patrick O'Leary	: Kitware
+Victor Mateevitsi : Argonne National Laboratory
 
-  John Patchett : Los Alamos National Laboratory
+Patrick O'Leary	: Kitware
 
-  David Pugmire	: Oak Ridge National Laboratory
+John Patchett : Los Alamos National Laboratory
 
-  Bruno Raffin : INRIA
+David Pugmire	: Oak Ridge National Laboratory
 
-  Silvio Rizzi : Argonne National Laboratory
+Bruno Raffin : INRIA
 
-  David Rogers : Los Alamos National Laboratory
+Silvio Rizzi : Argonne National Laboratory
 
-  Filip Sadlo : Heidelberg University
+David Rogers : Los Alamos National Laboratory
 
-  Sudhanshu Sane : Luminary Cloud
+Filip Sadlo : Heidelberg University
 
-  Timothy Shead : Sandia National Laboratories
+Sudhanshu Sane : Luminary Cloud
 
-  Han-Wei Shen : The Ohio State University
+Timothy Shead : Sandia National Laboratories
 
-  David Thompson : Kitware
+Han-Wei Shen : The Ohio State University
 
-  Will Usher : Intel
+David Thompson : Kitware
 
-  Tom Vierjahn : Westphalian University of Applied Sciences
+Will Usher : Intel
 
-  Gunther Weber : Lawrence Berkeley National Laboratory
-  
- 
+Tom Vierjahn : Westphalian University of Applied Sciences
+
+Gunther Weber : Lawrence Berkeley National Laboratory
+
+ -->
 <!-- </div> -->

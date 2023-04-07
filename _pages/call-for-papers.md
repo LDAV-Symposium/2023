@@ -5,8 +5,13 @@ title: Call for Papers
 
 # Call for Papers
 
-Contact: <ldav22a@precisionconference.com>
+Coming soon!
 
+<!--
+Contact: <ldav23@precisionconference.com>
+-->
+
+<!--
 Data scales are increasing throughout scientific, business, and research 
 contexts. Large-scale scientific simulations, observation technologies, 
 sensor networks, and experiments are generating enormous datasets, with 
@@ -101,11 +106,12 @@ proceedings and via the IEEE Xplore Digital Library.
 The LDAV Program Committee will present a Best Paper award to the 
 authors whose submission is deemed the strongest according to the 
 reviewing criteria. This award will be announced in conjunction with VIS 2022. 
-
+-->
 <!--
 The Best Paper for LDAV will be published directly in IEEE Transactions on 
 Visualization and Computer Graphics (TVCG). Further, in accordance with TVCG's <a href="https://www.computer.org/publications/author-resources/peer-review/journals#preliminary">policy for extending conference papers</a>, some excellent papers will be encouraged to submit journal versions of their work to TVCG, with reviewer continuity.
 -->
+<!-- 
 ## Important Dates
 
 Please note: all deadlines are firm and no extensions will be granted.
@@ -121,3 +127,4 @@ Author Notification
 
 Camera-Ready Deadline (firm)
 : August 8, 2022
+-->

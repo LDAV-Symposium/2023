@@ -1,25 +1,25 @@
 # Important Dates
 
-
-
 Paper Abstracts
-: June 13, 2022
+: June 9, 2023
 
 Paper Submissions
-: June 20, 2022
+: June 16, 2023
 
 Author Notifications
-: July 25, 2022
+: July 21, 2023
 
 Camera-Ready Deadline
-: August 8, 2022
+: August 8, 2023
 
-Poster Submission
-: August 16, 2022, 11:59 PM (AOE)
+Poster Submission`
+: August 16, 2023, 11:59 PM (AOE)
 
 Presentation Videos
 : TBD
 
 ## Symposium
-
-**October 16, 2022**
+TBD
+<!--
+ ** October 22, 2023 **
+-->
