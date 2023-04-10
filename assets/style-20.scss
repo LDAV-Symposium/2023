@@ -239,8 +239,6 @@ header {
 header {
     padding-top: 1em;
     padding-bottom: 2em;
-
-    background: url(header-sm.png);
     background-position: center bottom;
     background-size: 460px auto;
     background-repeat: no-repeat;
@@ -357,13 +355,13 @@ td h4 {
         background: none;
 
         article {
-            background-image: url(melbourne.jpg);
+            background-image: url(header23.png);
             background-repeat: no-repeat;
-            background-size: auto 140px;
-            background-position: right 0em bottom;
+            background-size: auto 160px;
+            background-position: right .5em bottom;
         }
     }
-
+    
     main {
         aside, article {
             border-top:    5px solid $sep-color;
@@ -373,8 +371,8 @@ td h4 {
 
     aside {
         min-width: 12em;
-        padding-right: 2em;
-        padding-left: 2em;
+        padding-right: 1em;
+        padding-left: 0em;
 
         border-right: 1px dotted lightgray;
     }
@@ -382,6 +380,7 @@ td h4 {
     article {
         width: 100%;
         padding-left: 2em;
+
     }
 
     header, footer {
@@ -396,6 +395,7 @@ td h4 {
 
         article {
             text-align: left;
+    
         }
 
         #ieee-logo {

@@ -24,7 +24,7 @@ Steffen Frey
 Silvio Rizzi
 : Argonne National Laboratory
 
-Gunter Weber
+Gunther Weber
 : Lawrence Berkeley National Laboratory
 
 ## Poster Chairs
