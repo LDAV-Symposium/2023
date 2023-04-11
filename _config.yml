@@ -1,5 +1,5 @@
 
-title: LDAV 2022
+title: LDAV 2023
 email: ldav@ieeevis.org
 baseurl: ""
 url: "http://ldav.org"
@@ -7,7 +7,7 @@ url: "http://ldav.org"
 # --- site config ---
 
 description: > 
-  The 12th IEEE Symposium on Large Data Analysis and Visualization, in conjunction with IEEE VIS 2022, Oklahoma City, USA (Hybrid), 16-21 October 2022
+  The 13th IEEE Symposium on Large Data Analysis and Visualization, in conjunction with IEEE VIS 2023, Melbourne, Australia, 22-27 October 2023
 
 navigation:
  - title: Home

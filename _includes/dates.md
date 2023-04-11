@@ -7,13 +7,13 @@ Paper Submissions
 : June 16, 2023
 
 Author Notifications
-: July 21, 2023
+: July 25, 2023
 
 Camera-Ready Deadline
 : August 8, 2023
 
-Poster Submission`
-: August 16, 2023, 11:59 PM (AOE)
+Poster Submission
+: TBD
 
 Presentation Videos
 : TBD
