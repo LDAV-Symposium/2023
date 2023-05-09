@@ -5,14 +5,11 @@ title: Call for Posters
 
 # Call for Posters
 
-Coming Soon!
-
-<!--
 Contact: <ldav-posters@googlegroups.com>
 
-We invite you to submit unpublished work to the IEEE LDAV 2022 Poster Program. It is a venue designed to highlight ongoing research and late breaking topics that have produced promising preliminary results. The poster program will be a great opportunity for the authors to interact with the symposium attendees and solicit feedback.
+We invite you to submit unpublished work to the IEEE LDAV 2023 Poster Program. It is a venue designed to highlight ongoing research and late breaking topics that have produced promising preliminary results. The poster program will be a great opportunity for the authors to interact with the symposium attendees and solicit feedback.
 
-In addition to the topics listed under [Call for Papers](https://ldav.org/2022/call-for-papers.html), we also welcome submissions that:
+In addition to the topics listed under [Call for Papers](https://ldav.org/2023/call-for-papers.html), we also welcome submissions that:
 
 * showcase successful stories of applying visualization to large-scale data intensive applications, and
 * highlights of recent visualization work presented or published in another venue.
@@ -26,8 +23,8 @@ Submitted summaries may not exceed the maximum of two pages in length including 
 Submission Site: Go to the [submission site](https://new.precisionconference.com/~vgtc), log in, go to ‘Submissions’, and select
 
 * Society: ‘VGTC’
-* Conference/Journal: ‘LDAV 2022’
-* Track: ‘LDAV 2022 Posters’.
+* Conference/Journal: ‘LDAV 2023’
+* Track: ‘LDAV 2023 Posters’.
 
 ## Layout and Dimensions of the Posters
 
@@ -48,15 +45,14 @@ Accepted posters will receive links with instructions to upload video previews a
 ## Important Dates
 
 Two-page Poster Paper Submission
-: August 16, 2022, 11:59 PM (AOE)
+: August 17, 2023, 11:59 PM (AOE)
 
 Author Notification
-: August 17, 2021
+: August 18, 2023
 
 Camera-Ready Deadline
-: August 19, 2022
+: August 21, 2023
 
 Video Preview deadline
-: September 1, 2022
+: September 1, 2023
 
--->
