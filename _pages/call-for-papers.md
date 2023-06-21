@@ -77,7 +77,7 @@ Abstract Deadline (firm)
 : June 16, 2023, 11:59 PM (AOE)
 
 Paper Submission (firm)
-: June 25, 2023, 11:59 PM (AOE)
+: June 23, 2023, 11:59 PM (AOE)
 
 Author Notification
 : July 25, 2023
