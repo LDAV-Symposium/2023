@@ -74,10 +74,10 @@ The Best Paper for IEEE LDAV will be published directly in IEEE Transactions on 
 Please note: all deadlines are firm and no extensions will be granted.
 
 Abstract Deadline (firm) 
-: June 9, 2023, 11:59 PM (AOE)
+: June 16, 2023, 11:59 PM (AOE)
 
 Paper Submission (firm)
-: June 16, 2023, 11:59 PM (AOE)
+: June 25, 2023, 11:59 PM (AOE)
 
 Author Notification
 : July 25, 2023
